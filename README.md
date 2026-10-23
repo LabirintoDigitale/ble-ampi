@@ -104,3 +104,7 @@ HACS → ⋮ → Repository personalizzati → `https://github.com/LabirintoDigi
 * [LabirintoDigitale](https://github.com/LabirintoDigitale): telecomando universale, controller LEGO Kaiyu, dispositivi presenti, strumenti.
 
 Licenza [MIT](LICENSE).
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W4M829BGBC)
